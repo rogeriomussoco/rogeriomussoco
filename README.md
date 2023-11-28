@@ -1,5 +1,6 @@
 ### Hi there 👋
 I am Rogerio Mussoco
+
 🌱 I’m currently learning Python
 
 <!--
